@@ -1,0 +1,28 @@
+{
+  "name": "chess-lezi",
+  "version": "0.0.1",
+  "description": "Chess.",
+  "types": "dist/index.d.ts",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "node dist/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/user-lezi/chess.git"
+  },
+  "keywords": [
+    "chess"
+  ],
+  "author": "lezii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/user-lezi/chess/issues"
+  },
+  "homepage": "https://github.com/user-lezi/chess#readme",
+  "devDependencies": {
+    "@types/node": "^20.12.10",
+    "typescript": "^5.4.5"
+  }
+}

@@ -1,0 +1,9 @@
+src
+dist/test.js
+tsconfig.json
+\.upm
+\.replit
+replit.nix
+\.config
+\.cache
+\.git

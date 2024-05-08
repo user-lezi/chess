@@ -1,0 +1,6 @@
+\.upm
+\.replit
+replit.nix
+\.config
+\.cache
+package-lock.json
