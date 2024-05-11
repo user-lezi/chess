@@ -1,4 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-console.log("Hello World");
+const _1 = require("./");
+let board = new _1.Board();
+console.log(board.FEN);
 //# sourceMappingURL=test.js.map

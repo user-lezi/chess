@@ -1,3 +1,5 @@
-import { } from './';
+import { Board, Parser, InitialFEN } from './';
 
-console.log("Hello World");
+
+let board = new Board();
+console.log(board.FEN);
